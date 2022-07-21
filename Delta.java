@@ -1,4 +1,4 @@
-package ativEquacao2grau;
+package ativequacao2grau;
 
 public class Delta extends Equacao {
     double delta;
